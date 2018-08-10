@@ -1,0 +1,43 @@
+{
+  "name": "invoicexpress-for-woocommerce",
+  "description": "invoiceXpress for Woocommerce",
+  "type": "wordpress-plugin",
+  "keywords": ["wordpress", "plugin"],
+  "homepage": "https://github.com/wakeup-os/invocicexpress-for-woocommerce",
+  "license": "GPL-2.0+",
+  "authors": [
+    {
+      "name": "Wakeup, Lda",
+      "email": "engenharia@log.pt",
+      "homepage": "http://log.pt/"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/wakeup-os/invocicexpress-for-woocommerce/issues",
+    "source": "https://github.com/wakeup-os/invocicexpress-for-woocommerce"
+  },
+  "autoload": {
+    "psr-4": {
+      "InvoiceXpressWoocommerce\\": "lib/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "InvoiceXpressWoocommerce\\": "tests/"
+    }
+  },
+  "require": {
+    "composer/installers": "~1.0",
+    "php": ">=5.5.9"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "*@stable",
+    "10up/wp_mock": "dev-master"
+  },
+  "suggest": {
+
+  },
+  "config": {
+    "sort-packages": true
+  }
+}

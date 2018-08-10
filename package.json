@@ -1,0 +1,14 @@
+{
+  "name": "invoiceXpress for Woocommerce",
+  "version": "1.0.0",
+  "description": "invoiceXpress for Woocommerce",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wakeup-os/invocicexpress-for-woocommerce"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "dependencies": {},
+  "scripts": {}
+}

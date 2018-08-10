@@ -1,0 +1,16 @@
+{
+  "generator-log-wp-plugin": {
+    "plugin_name": "invoiceXpress for Woocommerce",
+    "vendor_name": "invoiceXpress for Woocommerce",
+    "plugin_url": "https://github.com/wakeup-os/invocicexpress-for-woocommerce",
+    "project_url": "https://github.com/wakeup-os/invocicexpress-for-woocommerce",
+    "plugin_description": "invoiceXpress for Woocommerce",
+    "text_domain": "invoice-xpress-for-woocommerce",
+    "namespace": "InvoiceXpressWoocommerce",
+    "tests_namespace": "InvoiceXpressWoocommerce",
+    "name_composer": "invoicexpress-for-woocommerce",
+    "version": "1.0.0",
+    "git_issues": "https://github.com/wakeup-os/invocicexpress-for-woocommerce/issues",
+    "git_source": "https://github.com/wakeup-os/invocicexpress-for-woocommerce"
+  }
+}
